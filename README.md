@@ -12,12 +12,6 @@ This repository contains three basic machine learning practice projects:
 - Data cleaning, visualization, statistical analysis
 - Missing values, outliers, correlation analysis
 
-## 3. Sentiment Analysis from Scratch
-- Text preprocessing: tokenization, stopword removal, stemming
-- TF-IDF vectorization
-- Naive Bayes classifier
-- No pre-trained models - built from scratch
-
 ## Tech Stack
 - Python
 - NumPy, Pandas
